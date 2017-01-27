@@ -4,8 +4,10 @@ Change History
 2.6.0 (unreleased)
 ==================
 
-- Nothing changed yet.
+- Temporarily restrict setuptools to before version 34 until we deal
+  with breakage.
 
+- Add Python 3.6 support.
 
 2.5.3 (2016-09-05)
 ==================
